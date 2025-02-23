@@ -1,91 +1,31 @@
 # 2-KTB-litt.ly
-KTB 3주차 과제: 리틀리 페이지 구현
+KTB 3주차 과제: 리틀리 구현 구현
 
-![Image](https://github.com/user-attachments/assets/26f2f5b8-cd88-4b70-8da1-0808bcb78984)
+<br/>
+
+**개발 환경:** MacOS, VSCode, HTML, CSS
+```
+1. 프로필(프로필 이미지, 자기소개)
+2. 외부 링크 버튼(아이콘, 버튼)
+3. 사진
+4. 동영상
+```
+
+<br/>
+
+## 프로젝트 파일 트리
 ```
 2-ktb-litt.ly
-├─ .DS_Store
-├─ README.md
 ├─ images
-│  ├─ .DS_Store
 │  ├─ logo
-│  │  ├─ clubhouse.svg
-│  │  ├─ disquiet.svg
-│  │  ├─ email.svg
-│  │  ├─ facebook.svg
-│  │  ├─ home.svg
-│  │  ├─ instagram.svg
-│  │  ├─ linkedin.svg
-│  │  ├─ naverblog.svg
-│  │  ├─ telephone.svg
-│  │  ├─ twitter.svg
-│  │  └─ youtube.svg
 │  ├─ photo
-│  │  ├─ .DS_Store
-│  │  ├─ photo_1.jpg
-│  │  ├─ photo_2.jpg
-│  │  ├─ photo_3.jpg
-│  │  └─ photo_4.jpg
-│  └─ profile_img.webp
+│  ├─ profile_img.webp
 ├─ index.css
-└─ index.html
+├─ index.html
+└─ README.md
+```
 
-```
-```
-2-ktb-litt.ly
-├─ .DS_Store
-├─ README.md
-├─ images
-│  ├─ .DS_Store
-│  ├─ logo
-│  │  ├─ clubhouse.svg
-│  │  ├─ disquiet.svg
-│  │  ├─ email.svg
-│  │  ├─ facebook.svg
-│  │  ├─ home.svg
-│  │  ├─ instagram.svg
-│  │  ├─ linkedin.svg
-│  │  ├─ naverblog.svg
-│  │  ├─ telephone.svg
-│  │  ├─ twitter.svg
-│  │  └─ youtube.svg
-│  ├─ photo
-│  │  ├─ .DS_Store
-│  │  ├─ photo_1.jpg
-│  │  ├─ photo_2.jpg
-│  │  ├─ photo_3.jpg
-│  │  └─ photo_4.jpg
-│  └─ profile_img.webp
-├─ index.css
-└─ index.html
+<br/>
 
-```
-```
-2-ktb-litt.ly
-├─ .DS_Store
-├─ README.md
-├─ images
-│  ├─ .DS_Store
-│  ├─ logo
-│  │  ├─ clubhouse.svg
-│  │  ├─ disquiet.svg
-│  │  ├─ email.svg
-│  │  ├─ facebook.svg
-│  │  ├─ home.svg
-│  │  ├─ instagram.svg
-│  │  ├─ linkedin.svg
-│  │  ├─ naverblog.svg
-│  │  ├─ telephone.svg
-│  │  ├─ twitter.svg
-│  │  └─ youtube.svg
-│  ├─ photo
-│  │  ├─ .DS_Store
-│  │  ├─ photo_1.jpg
-│  │  ├─ photo_2.jpg
-│  │  ├─ photo_3.jpg
-│  │  └─ photo_4.jpg
-│  └─ profile_img.webp
-├─ index.css
-└─ index.html
-
-```
+## 리틀리 미리보기
+![Image](https://github.com/user-attachments/assets/37252b7c-0b13-4783-b17b-2a080d769390)
